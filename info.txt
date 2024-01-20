@@ -1,0 +1,13 @@
+Web scraping - 
+BS 
+Scrapy 
+Selenium
+
+shorturl.at/uyzBK
+
+Ideas - 
+Healthcare Bot 
+MakeMyTrip
+Face recognition attendance system using python
+Convert PDF File to text converter & language translator
+Expense Tracker
